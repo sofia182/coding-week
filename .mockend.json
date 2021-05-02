@@ -2,7 +2,7 @@
   "Album": {
     "title": "string",
     "author": "string",
-    "year": int,
+    "year": "int",
     "genre": "string",
     "poster": "string"
   }
