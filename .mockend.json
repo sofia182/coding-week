@@ -1,0 +1,9 @@
+{
+  "Album": {
+    "title": "string",
+    "author": "string",
+    "year": int,
+    "genre": "string",
+    "poster": "string"
+  }
+}
